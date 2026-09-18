@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Litera
 
 Litera is a full-stack research workspace for discovering, understanding, and organizing academic literature.
@@ -37,3 +38,6 @@ Copy `.env.example` files when connecting MongoDB, external paper providers, or 
 `Express API -> FastAPI AI service -> PDF/NLP/embedding implementations`
 
 See `docs/architecture.md` and `docs/api-documentation.md` for the extension points.
+=======
+# Research-Paper-Recomodation-literature-Analysiis-Platform
+>>>>>>> 5a2fd49ea5d05c9cc437092a9146cbc37afe8c6f
